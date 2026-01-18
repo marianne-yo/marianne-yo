@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning React Native
 - 📫 How to reach me: mariannecbalen@gmail.com
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I'm dummm
 
 <!---
 marianne-yo/marianne-yo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
